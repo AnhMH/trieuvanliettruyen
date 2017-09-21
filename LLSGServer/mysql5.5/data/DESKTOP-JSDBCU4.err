@@ -241,3 +241,15 @@ InnoDB: of MySQL. Please close it to get rid of this error.
 170920 21:56:48 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
 170920 21:56:48 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
 170920 21:56:48 [Note] Server socket created on IP: '0.0.0.0'.
+170921 21:50:09 [Note] Plugin 'FEDERATED' is disabled.
+170921 21:50:09 InnoDB: The InnoDB memory heap is disabled
+170921 21:50:09 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+170921 21:50:09 InnoDB: Compressed tables use zlib 1.2.3
+170921 21:50:09 InnoDB: Initializing buffer pool, size = 128.0M
+170921 21:50:09 InnoDB: Completed initialization of buffer pool
+170921 21:50:09 InnoDB: highest supported file format is Barracuda.
+170921 21:50:09  InnoDB: Waiting for the background threads to start
+170921 21:50:10 InnoDB: 1.1.8 started; log sequence number 21204718
+170921 21:50:11 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+170921 21:50:11 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+170921 21:50:11 [Note] Server socket created on IP: '0.0.0.0'.
