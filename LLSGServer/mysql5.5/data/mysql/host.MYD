@@ -1,0 +1,9 @@
+170917  0:39:12 [Note] Event Scheduler: Loaded 0 events
+170917  0:39:12 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.28'  socket: ''  port: 3306  MySQL Community Server (GPL)
+170920 11:01:15 [Note] Event Scheduler: Loaded 0 events
+170920 11:01:15 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.28'  socket: ''  port: 3306  MySQL Community Server (GPL)
+170920 11:08:25 [Note] bin\mysqld.exe: Normal shutdown
+
+170920 11:08:25 [Note] Event Scheduler: Purging the queue. 0 events

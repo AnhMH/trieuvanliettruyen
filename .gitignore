@@ -3,3 +3,9 @@
 /LLSGServer/php5
 /LLSGServer/server
 /LLSGServer/tomcat6
+/LLSGServer/mysql5.5/bin
+/LLSGServer/mysql5.5/share
+/LLSGServer/mysql5.5/data/ibdata1
+/LLSGServer/mysql5.5/data/ib_logfile0
+/LLSGServer/mysql5.5/data/ib_logfile1
+LLSGServer/mysql5.5/data.zip
